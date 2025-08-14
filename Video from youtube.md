@@ -19,7 +19,7 @@
 > ⚠️ При установке и запуске **Wamp Server** может возникнуть ошибка.  
 Чтобы узнать причину — нужно посмотреть её **код**.
 
-![[Pasted image 20250808160802.png]]
+![[Php learning/images 1/Pasted image 20250808160802.png]]
 
 ---
 
@@ -45,7 +45,7 @@ php --version
 
 Официально в PHP существует **8 типов данных**:
 
-![[Pasted image 20250808162305.png]]
+![[Php learning/images 1/Pasted image 20250808162305.png]]
 
 ---
 

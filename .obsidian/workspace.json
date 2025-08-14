@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "087244d55c4effb5",
+        "id": "7bd989edead838bd",
         "type": "tabs",
         "children": [
           {
-            "id": "cfe8d29435f05614",
+            "id": "87bad76312eea3dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Video from youtube.md",
+                "file": "SQL learning/Установка WorkBench.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Video from youtube"
+              "title": "Установка WorkBench"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7cfc0e9eab4112da",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Video from youtube.md",
+                "file": "Git learning/Как работает Gitignore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Video from youtube"
+              "title": "Backlinks for Как работает Gitignore"
             }
           },
           {
@@ -168,15 +168,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ec286714e4bbeb6",
+  "active": "87bad76312eea3dc",
   "lastOpenFiles": [
-    "lesson1.php",
-    "Welcome.md",
-    "images/Pasted image 20250808162305.png",
-    "images/Pasted image 20250808160802.png",
+    "SQL learning/images/Pasted image 20250814160417.png",
+    "SQL learning/images/Pasted image 20250814160805.png",
+    "SQL learning/Untitled.md",
+    "SQL learning/images",
+    "Php learning/images 1/Pasted image 20250808162305.png",
+    "Php learning/images 1/Pasted image 20250808160802.png",
+    "SQL learning/Установка WorkBench.md",
+    "SQL learning/images/Pasted image 20250814161312.png",
+    "SQL learning/images/Pasted image 20250814161116.png",
+    "SQL learning/images/Pasted image 20250814160950.png",
     "Video from youtube.md",
-    "images",
+    "Tasks/НА завтра.md",
+    "Git learning/Как работает Gitignore.md",
+    "Git learning/Как работает Rebase.md",
+    "Git learning/Работа с удаленными репозиториями.md",
+    "Git learning/images/Pasted image 20250812195950.png",
+    "Git learning/images/Pasted image 20250812195742.png",
+    "Git learning/images/Pasted image 20250812195653.png",
+    "Git learning/Рабочие процессы ГИТ.md",
+    "Git learning/Разница между Git и GitHub.md",
+    "Git learning/Сервисы хостинга git репозиториев.md",
+    "Git learning/Слияние веток.md",
+    "Git learning/Хэши объектов и SHA1 хэш-функция.md",
+    "Git learning/Установка GIT.md",
+    "Git learning/Статусы отслеживания файлов.md",
+    "Git learning/Пример Репозитория.md",
+    "Git learning/Основные команды ГИТ.md",
+    "Git learning/Git practice.md",
+    "Git learning/Что такое Git и почему его стоит использовать.md",
+    "Git learning/Что такое коммит.md",
+    "Git learning/Объекты в ГИТ.md",
+    "Git learning/Области GIT.md",
+    "Git learning/Обзор основных команд в Терминале.md",
+    "Git learning/Как инициализировать Git репозиторий.md",
+    "Git learning/Ветки в ГИТ.md",
+    "Php learning/images 1",
+    "Php learning/📘 PHP с нуля — Заметки по видеоурокам.md",
+    "Php learning/images",
     "Php learning",
-    "Untitled"
+    "Git learning/images",
+    "Git learning",
+    "Tasks",
+    "SQL learning",
+    "Untitled.canvas",
+    "Php learning/Videos",
+    "lesson1.php"
   ]
 }

@@ -6,6 +6,7 @@
 
 ![[Pasted image 20250810211620.png]]
 
-Чтобы открыть в терминале данную папку **<font color="#ffff00">".git"</font>** . Достаточно использовать данные команды :
+Чтобы открыть в терминале данную папку **<font color="#ffff00">".git"</font>** . Достаточно использовать данную команду **<font color="#ffff00">PowerShell (Windows) ls -Force</font>** :
+
 
 ![[Pasted image 20250810211935.png]]
